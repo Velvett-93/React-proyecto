@@ -1,3 +1,3 @@
-import layoutStyle from "./layouts";
+import layoutStyle from "./layoutStyle";
 
 export { layoutStyle };

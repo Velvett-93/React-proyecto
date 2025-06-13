@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, Image, TouchableOpacity } from 'react-native';
 import RegisterForm from '../components/RegisterForm';
 import LoginForm from '../components/LoginForm'; // AÑADIDO para el login
 import logo from '../../assets/icon.png';
-import layoutStyle from '../styles/layouts';
+import layoutStyle from '../styles/layoutStyle';
 
 const Auth = () => {
     const [showLogin, setShowLogin] = useState(true);
@@ -62,4 +62,3 @@ const styles = StyleSheet.create({
 });
 
 export default Auth; 
-
