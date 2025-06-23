@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "proyecto-chido",
-    "slug": "proyecto-chido",
+    "name": "proyecto_chido",
+    "slug": "proyecto_chido",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

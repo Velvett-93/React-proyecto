@@ -1,5 +1,5 @@
 {
-  "name": "proyecto-chido",
+  "name": "proyecto_chido",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,16 +9,32 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@react-native-vector-icons/material-design-icons": "^12.0.0",
-    "expo": "~53.0.10",
+    "axios": "^1.10.0",
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "expo": "~53.0.11",
     "expo-status-bar": "~2.2.3",
+    "express": "^5.1.0",
+    "formik": "^2.4.6",
+    "jsonwebtoken": "^9.0.2",
+    "lucide-react": "^0.518.0",
+    "lucide-react-native": "^0.518.0",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.15.2",
+    "nodes": "^0.1.0",
+    "package.json": "^0.0.0",
     "react": "19.0.0",
     "react-native": "0.79.3",
     "react-native-paper": "^5.14.5",
-    "react-native-safe-area-context": "^5.4.1"
+    "yup": "^1.6.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
